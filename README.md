@@ -12,3 +12,7 @@
 ## Build on Linux
 
 [![Build-Linux CI](https://github.com/M-Gokulram/M3_Wiper_control_system/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/M-Gokulram/M3_Wiper_control_system/actions/workflows/Build%20on%20Linux.yml)
+
+## Cpp Check
+
+[![Cppcheck Analysis](https://github.com/M-Gokulram/M3_Wiper_control_system/actions/workflows/Cppcheck%20analysis.yml/badge.svg)](https://github.com/M-Gokulram/M3_Wiper_control_system/actions/workflows/Cppcheck%20analysis.yml)
