@@ -8,3 +8,7 @@
 
 ![svg](https://user-images.githubusercontent.com/102039911/168418262-f9df00e6-adb4-4c5c-a204-481113359298.svg)
 ![svg](https://user-images.githubusercontent.com/102039911/168418265-a4b751e6-8d40-40cf-995a-b68886752bf3.svg)
+
+## Build on Linux
+
+[![Build-Linux CI](https://github.com/M-Gokulram/M3_Wiper_control_system/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/M-Gokulram/M3_Wiper_control_system/actions/workflows/Build%20on%20Linux.yml)
